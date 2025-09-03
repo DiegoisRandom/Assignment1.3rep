@@ -1,0 +1,14 @@
+1.
+If I continue to work on another computer i will safe my work on a remote repository so I can transfer any of the work I did on that computer onto my original computer.
+
+2.
+I can use the git restore command to get the deleted file back.
+
+3.
+I can download the file from a remote repository that has the file from the previous assignment.
+
+4.
+I can go through the file versions to roll back into a previous version.
+
+5.
+Just continue to push the solution anyways to know that you did it, the work might not be graded but at least you have it pushed and there listed.

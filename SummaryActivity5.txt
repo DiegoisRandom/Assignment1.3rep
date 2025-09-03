@@ -1,0 +1,8 @@
+1.
+One mistake I made through these class activites was that I couldnt figure out how to make a text file because I was getting an error, I was able to figure out that I was trying to make a text file in the root directory where I didnt have permission to create a file there and I made a separate directory, which is what I was supposed to do, and was able to make the file. I used google to figure out what the error code was that git was giving me and I could figure out what to do to fix it. 
+
+2.
+I couldnt figure out how to commit a file into my local repositiory because it looked like the command didnt want to work, but I asked my professor and he helped me figure out how to correctly call the command so that It would work. It turned out to be that I was in the incorrect directory to be able to commit my file into my local repository.
+
+3.
+I accidentally deleted two important text files for my assignment1.3 when I was trying to use the copy command. Instead of copying them and moving them to a different directotry, I accidently renamed both the files to the same name which delted both of them and make it into a separte file with the name i gave it. I was able to fix the problem by looking at the slides to figure out where I messed up. It seemed that I worded the command completely wrong, I forgot to type out the destination I wanted to send the copied file into. 

@@ -1,0 +1,12 @@
+1.
+
+I think its a good idea to check the status before staging files because there are could be certain files that you did not want to commit. Its a good idea to stage only files that you want to commit. Its possible that you could accidently add files that you didnt meant to or git added other hidden files that you dont want to commit.
+
+2.
+I would make a new local repository for the Assignment so we can start creating files and directories to track versions in the repository so when we make a mistake we already have backups to fall back on.
+
+3.
+The last thing you should do before taking a break from work is to save a version of your files into your local repository just incase something goes wrong when you come back from your break. 
+
+4.
+I think the best thing to do first is to check the status of all the files you were working on and checking if anything was modified, or deleted so you can recover it so to not continue working withouut knowing of the changes. 

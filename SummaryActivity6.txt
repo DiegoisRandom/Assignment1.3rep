@@ -1,0 +1,17 @@
+1. 
+
+first entry of a Git log contains 4 pieces of info
+
+The first one is the Commit hash which can be used to reger tto a specific commit you need to return to or reset. It will be useful when you accidently make a change to a file you already committed and need to go back to the commit that you made so that you can restore the earlier version.
+
+2.
+
+The second piece is the Author information,, who made the commit. This is useful because you can know who made the changes and ask them any questions you hae about it. You know who is responsible for the file commit.
+
+3.
+ 
+The third piece is the Date that the commit was made. This is important because you can know the sequencing of events, at what time was this file committed so that you can figure out when errors happened and where they might have occured.
+
+4.
+
+The fourth piece is the Commit Message that we made. Its important because it can provide some specific information or a quick run down as to what the file does so that we dont make the mistake of believing that a random file is not important and we remove it when it was an essential file that might cause a big problem if removed.

@@ -1,0 +1,19 @@
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   MEcopy.txt
+	new file:   SummaryActivity3.txt
+	new file:   SummaryActivity4.txt
+	new file:   SummaryActivity5.txt
+	new file:   SummaryActivity6.txt
+	new file:   SummaryActivity7.txt
+	new file:   summarycopy.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	questions.txt
+	status.txt
+

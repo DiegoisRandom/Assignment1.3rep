@@ -1,0 +1,19 @@
+
+
+I've made a list of pretty simple changes just trying to really grasp the capabilities with these commands. I made a file named SoftDevI a file to hold my Unit01 file where I will keep all the documents that I will be making for this computer literacy unit in our class. I split my work into different files labeled as different assignments and the files in them correspond to the work i did for that assignment in mycourses. I copied my files and moved them in from Unit01 folder into their appropriete assignment folder that being Assignment1.3
+
+Activity:
+
+1.
+The vi new_file.txt should be considered to be in the add/Working Stage. The file has just been created and is being constructed into its "first" draft.
+
+2.
+git add new_file.txt is the add/Staging Area stage because it has just been added to git cache file that are being prepared to commit into the local repository.
+
+3. git commit -m "adding a new file" is in the commit/local Repository because it was just added into the local reposity in the local file system 
+
+4. git push is the push/Remote repository state because it moves your committed file into the remote repository to backup your local repository to a server. 
+
+
+5. 
+vi new_file.txt is in the modified stage because we are taking a pre-existing file and making changes to it and needs to go through the four different stages of saving the file. 
