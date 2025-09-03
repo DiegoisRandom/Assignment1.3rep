@@ -2,4 +2,8 @@ Diego Perdomo
 
 1. What happened? : Well I made the directory into the repository directory but it didnt recognize the directory i named Diego as something that I can stage and push into gitHub. It just said that the work tree branch was clean and there was nothing to cache.
 
+2. 
+
+Looks like moving a text file into the new directory is what allowed me to successfully have the directory be recognized by my repository. When i moved the text file and used git status, I could see something that was untracked called "./". When I added it, It gave me a notice saying "/Diego/questions.txt" was added into the local repository. When I committed, and pushed the directory into github it showed up as a file and in it was the questions.txt file i moved into the new directory.
+
 
