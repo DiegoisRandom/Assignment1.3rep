@@ -1,0 +1,5 @@
+Diego Perdomo 
+
+1. What happened? : Well I made the directory into the repository directory but it didnt recognize the directory i named Diego as something that I can stage and push into gitHub. It just said that the work tree branch was clean and there was nothing to cache.
+
+
